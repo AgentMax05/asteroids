@@ -53,7 +53,7 @@ Pressing the 'z' key during a game will enable debug mode, which will display al
 Although this mode worsens performance, it is very interesting to look at. Below is an example.
 
 
-<img src="https://user-images.githubusercontent.com/64991518/229324659-daec08f5-0511-43f8-a782-02baf67f6056.png" width="400px">
+<img src="https://user-images.githubusercontent.com/64991518/229324659-daec08f5-0511-43f8-a782-02baf67f6056.png" width="600px">
 
 ## Gameplay demo
 https://user-images.githubusercontent.com/64991518/229324356-b7d8d368-de07-4ddd-b824-2cbd9d8a14d1.mp4
