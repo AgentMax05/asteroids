@@ -2,6 +2,8 @@
 A recreation of the arcade classic [Asteroids](https://en.wikipedia.org/wiki/Asteroids_(video_game))!
 This game is programmed in C++ with the SDL2 library for graphics. A Windows binary is available in the releases.
 
+I made this game in 2020 during the Covid-19 lockdown. While looking through the code, keep in mind it won't be the cleanest as I was just learning C++ at that time.
+
 ## Installation
 To install the game, simply download the binary provided in the latest release. Then, open the folder and run the `asteroids.exe` file.
 
