@@ -44,9 +44,11 @@ This game tracks the top 10 highscores on your computer. If you score a highscor
 These highscores can be viewed in the game as well.
 
 ### Collision detection
-Although it may seem like collisions are being detected using squares drawn around each shape, the collisions between the player and all asteroids are detected with a line segment intersection algorithm.
+Although it may seem like collisions are being detected using rectangles drawn around each shape, the collisions between the player and all asteroids are detected with a line segment intersection algorithm.
 Each asteroid has a set of predefined vertices that are rotated with the asteroid, which the player has as well.
-These vertices and line segments can be viewed in the debug mode.
+These vertices and line segments accompanied by the standard rectangle collider for each shape can be viewed in the debug mode.
+
+By using this line segment intersection algorithm, the game can detect collisions very accurately, as opposed to the standard rectangle collider algorithm which is very inaccurate.
 
 ### Debug mode
 Pressing the 'z' key during a game will enable debug mode, which will display all vertices, line segments, and sprite bounds.
